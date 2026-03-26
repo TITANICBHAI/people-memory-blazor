@@ -1,0 +1,23 @@
+# Build artifacts
+bin/
+obj/
+publish/
+*.user
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.sln.docstates
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
